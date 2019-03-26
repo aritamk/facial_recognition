@@ -1,6 +1,8 @@
 Overview
 ========
 
+Lanuages: Python, with Keras and TensorFlow
+
 This project builds from Adrian Rosebrock, and Dlib’s work in OpenCV, with Python, Keras, and TensorFlow for image recognition to build facial recognition via image encoding. 
 
  

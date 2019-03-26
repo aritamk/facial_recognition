@@ -1,0 +1,11 @@
+certifi==2019.3.9
+Click==7.0
+dlib==19.17.0
+face-recognition==1.2.3
+face-recognition-models==0.3.0
+imutils==0.5.2
+numpy==1.16.2
+opencv-contrib-python==4.0.0.21
+opencv-python==4.0.0.21
+Pillow==5.4.1
+wincertstore==0.2
